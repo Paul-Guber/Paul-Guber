@@ -7,10 +7,13 @@
 - 🌱 I’m currently learning React, Redux, Rtk Query  and TypeScript  
   
 
--     🎓  I am all time learning.  I read a lot of documentation and take courses. And I get pleasure when I program on React , Redux, Rtk Query and TypeScript.  
+-     🎓  I am all time learning.  I read a lot of documentation and take courses.  
   
 
- 💼 At the moment, I really want to change my profession and associate myself with the profession of a web developer.  
+-  💼 At the moment, I really want to change my profession and associate myself with the profession of a web developer.  
+  
+
+-  ❤️  I get pleasure when I program on React , Redux, Rtk Query and TypeScript.  
   
 
 <br/>  
