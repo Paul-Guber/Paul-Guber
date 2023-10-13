@@ -72,7 +72,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Paul-Guber&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Paul-Guber=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
